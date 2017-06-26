@@ -71,7 +71,7 @@ a:focus {
 	padding: 2em 1em 4em;
 	text-align: center;
 	color: #fff;
-	background: #181922 url(../img/journey/2.jpg) no-repeat center center;
+	background: #181922 url(https://drscdn.500px.org/photo/171245921/q%3D80_m%3D2000/bde9883d327a7bb09fbf2db0a826ee65) no-repeat bottom center;
 	background-size: cover;
 }
 
@@ -142,11 +142,15 @@ a:focus {
 	padding: 3em;
 	text-align: center;
 	color: #fff;
-	background: #181922;
+	/*background: #181922;*/
+	background: #181922 url(../img/collage-web-min.png) no-repeat center center;
+	background-size: cover;
 }
 
 .intro blockquote {
 	max-width: 800px;
+	position: relative;
+	z-index: 99;
 	margin: 0 auto;
 }
 
