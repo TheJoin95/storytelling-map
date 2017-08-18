@@ -71,7 +71,7 @@ a:focus {
 	padding: 2em 1em 4em;
 	text-align: center;
 	color: #fff;
-	background: #181922 url(../img/journey/2.jpg) no-repeat center center;
+	background: #181922 url(https://drscdn.500px.org/photo/171245921/q%3D80_m%3D2000/bde9883d327a7bb09fbf2db0a826ee65) no-repeat bottom center;
 	background-size: cover;
 }
 
@@ -142,11 +142,15 @@ a:focus {
 	padding: 3em;
 	text-align: center;
 	color: #fff;
-	background: #181922;
+	/*background: #181922;*/
+	background: #181922 url(../img/collage-web-min.png) no-repeat center center;
+	background-size: cover;
 }
 
 .intro blockquote {
 	max-width: 800px;
+	position: relative;
+	z-index: 99;
 	margin: 0 auto;
 }
 
@@ -332,7 +336,63 @@ a:focus {
 	margin: 10px 0;
 }
 
+div#popup {
+    position: fixed;
+    display: none;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: rgba(0, 0, 0, 0.21);
+    z-index: 99999;
+}
+
+div#popup .popup-content {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+div#popup .popup-container {    
+	margin: 10% auto;
+    width: 50%;
+    padding: 15px 10px;
+    background: #ffffff;
+    border-radius: 5px;
+    max-height: 500px;
+    overflow-y: auto;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.52);
+}
+
+div#popup h3 {
+	margin: 0px auto;
+	font-size: 1.6em;
+}
+
+div#popup #close-popup {
+	float: right;
+    bottom: 15px;
+    position: relative;
+    left: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.fact {
+	cursor: pointer;
+	color: #47dbb4;
+}
+
+@media(min-width: 721px) and (max-width: 1199px) {
+	div#popup .popup-container {
+		width: 80%;
+	}
+}
+
 @media(max-width: 720px) {
+	div#popup .popup-container {
+		margin: 10% auto;
+    	width: 90%;
+	}
+
 	.header-title {
 		font-size: 1.5em;
 	}
