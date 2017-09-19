@@ -33,38 +33,38 @@ var jsonData = [
 	},
 	{
 		"title":"Piano Versailles: come eludere le guardie, organizzare un incontro su couchsurfing e godersi lo spettacolo serale",
-		"content": "<p></p>"
+		"content": "<p>L'esercito francese non può niente contro di me!<br/>Nonostante la reggia di Versailles chiudesse alle 18, sono comunque riuscito ad introdurmi all'interno per godermi ancora il giardino esterno. Già, perché purtroppo avevo deciso prima di fare un giro all'interno della villa, non facendo caso però all'orario di chiusura generale! Perciò, dopo essere uscito, sono riuscito a rientrare da un entrata secondaria: solo dopo una mezz'oretta una pattuglia dell'esercito mi ferma per accompagnarmi all'uscita. Ovviamente io stavo cercando il bagno.. in mezzo ad un giardino... il giardino di Versailles.<br/>Aldilà di questo, decido comunque di restare per lo spettacolo serale (di Agosto, ogni sabato sera, organizzano uno spettacolo pirotecnico all'interno del giardino).<br/>Tramite il Couchsurfing conosco Valentina, una ragazza argentina in vacanza in Europa!<br/>Passiamo quindi una splendida sera in mezzo alla natura ed alle fontane del più bel giardino di Francia!</p>"
 	},
 	{
-		"title":"Pranzo a louvre, cibo tipico moulin rouge",
-		"content": ""
+		"title":"Pranzo al Louvre e cibo da 'giornata lavorativa' al Moulin Rouge",
+		"content": "<p>E' vero che per quanto riguarda la cucina noi italiani siamo dei fenomeni, ma mi ero promesso di provare almeno un pasto tipico della città che visitavo.<br/>Oltre le baguette, che mi hanno accompagnato per molti pranzi, tra cui anche al Museo del Louvre mi son concesso un pranzo degno di nota nel quartiere del Moulin Rogue.<br/>Cercando su tripadvisor sono riuscito a trovare una specie di 'osteria' dove spesso vanno, in pausa pranzo, i lavoratori francesi delle vicinanze. L'osteria è davvero piccola, il proprietario era un vecchio signore e sua figlia faceva da cameriera. L'ambiente era povero di inglese, ma nonostante questo si respirava un bellissimo clima di ospitalità ed umiltà. Era il posto giusto!<br/>Il menù era molto semplice: un primo piatto ed un secondo, con il caffè a seguito. Tutto carammelato, con formaggio e burro...ed ovviamente tutto squisito!</p>"
 	},
 	{
-		"title":"Paella, pub crawl e serata passata alla barcelonita (transfomer) con due americani silicon valley",
-		"content": ""
+		"title":"Paella, Pub Crawl, Barcelonita, Transfomers e Silicon Valley",
+		"content": "<p>Be', ok, Barcellona è conosciuta per la sua movida. Ero sì stanco, ma ero più stanco del fatto che piovesse tutto il giorno. L'ostello dove dormivo era molto rock e i ragazzi che ci abitavano organizzavano sempre qualcosa la sera, sia dentro che fuori.<br/>Abbiamo cenato tutti insieme, giocato ad uno strano gioco di carte (credo inglese) e fatto baldoria nei locali della Barcelonita. La sera più assurda fu la prima. Restai sveglio per 27 ore di fila, perché arrivavo da Parigi con un viaggio di oltre 6h di treno, e tornammo all'ostello dopo l'alba.<br/>Sembra strano, ma legai subito con due ragazzi statunitensi e australiani. I primi parlavano anche un po' di italiano, ed erano anche loro dei web dev, mentre i secondi era già diffile capirli in inglese che l'italiano.. per favore lascialo stare!<br/><br/>Dopo tutte quelle ore sveglio ad un certo punto intravidi delle sagome di due Transformer avvicinarsi a me.. pensavo di essere fuso ed invece c'erano davvero! Allucinante, credo sia stata una delle giornate più pazze che abbia vissuto e non ci sono parole per descriverla!</p>"
 	},
 	{
 		"title":"La nave da crociera che, tra due isolette, passa dentro il cerchio del sole al tramonto",
 		"content": ""
 	},
 	{
-		"title":"chi è Ully, serata insieme con la ully e la sua amica",
+		"title":"Chi è Ully? La ragazza perfetta",
 		"content": ""
 	},
 	{
-		"title":"Giro in bici, seduto in parco a rilassarsi cosa mai fatta prima",
+		"title":"Relax, Parco e.. bici!",
 		"content": ""
 	},
 	{
-		"title":"Jacop, canna, ragazza italiana",
+		"title":"La prima volta non si scorda mai",
 		"content": ""
 	},
 	{
-		"title":"Ragazza, cattedrale di notre dame, senna ed arco di trionfo",
+		"title":"Notre Dame e la Senna: un due meraviglioso",
 		"content": ""
 	},
 	{
-		"title":"Gita in motorino, parlare con marta, tuffo in mare",
+		"title":"RUN! Motorino, mare e Marta",
 		"content": ""
 	}
 ];
