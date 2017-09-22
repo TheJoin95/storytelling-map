@@ -44,27 +44,27 @@ var jsonData = [
 		"content": "<p>Be', ok, Barcellona è conosciuta per la sua movida. Ero sì stanco, ma ero più stanco del fatto che piovesse tutto il giorno. L'ostello dove dormivo era molto rock e i ragazzi che ci abitavano organizzavano sempre qualcosa la sera, sia dentro che fuori.<br/>Abbiamo cenato tutti insieme, giocato ad uno strano gioco di carte (credo inglese) e fatto baldoria nei locali della Barcelonita. La sera più assurda fu la prima. Restai sveglio per 27 ore di fila, perché arrivavo da Parigi con un viaggio di oltre 6h di treno, e tornammo all'ostello dopo l'alba.<br/>Sembra strano, ma legai subito con due ragazzi statunitensi e australiani. I primi parlavano anche un po' di italiano, ed erano anche loro dei web dev, mentre i secondi era già diffile capirli in inglese che l'italiano.. per favore lascialo stare!<br/><br/>Dopo tutte quelle ore sveglio ad un certo punto intravidi delle sagome di due Transformer avvicinarsi a me.. pensavo di essere fuso ed invece c'erano davvero! Allucinante, credo sia stata una delle giornate più pazze che abbia vissuto e non ci sono parole per descriverla!</p>"
 	},
 	{
-		"title":"La nave da crociera che, tra due isolette, passa dentro il cerchio del sole al tramonto",
-		"content": ""
+		"title":"The end",
+		"content": "<p>Marsiglia è stata l'ultima tappa, quasi forzata, per tornare in patria! La stanchezza si è fatta sentire tutta di colpo, ma per fortuna la giornata era ottima per un po' di mare. Sguazzando per il vicino mare di Marsiglia, riesco a godermi un tramonto spettacolare sul suo golfo.<br>Era il tipico tramonto da ammirare nella sua interezza, per quei 20minuti. Immobile, guardando l'orizzonte. Il panorama era unico, tante piccole isole che lasciavano spazio al sole via via che si spegneva nel mare.<br/>La scena clou è stata quando, all'improvviso, una grossa nave da crociera al largo di Marsiglia, si sovrappone con la sua sagoma a quella del sole creando così una \"eclissi parziale\"! Unico.<br><br/>Lì, ho finalmente capito che il mio viaggio stava finendo.</p>"
 	},
 	{
 		"title":"Chi è Ully? La ragazza perfetta",
-		"content": ""
+		"content": "<p>Ully mully è la tipica ragazza semplice con la quale puoi scherzare, confidarti e affrontare avventure che vanno dalla quotidianetà all'estremo con una facilità disarmante. Tutto viene spontaneo con lei... non puoi fare altrimenti!<br/>I suoi occhi, da vera tedesca, sono ipnotici: riesce a comunicarti qualsiasi cosa tramite lo sguardo. Non so quante volte ho capito, da quello sguardo, cosa esattamente volesse dirmi... per non contare tutte quelle volte che mi ci sono perso, in quel bellissimo blu.<br/><br/>Ully è tra l'altro una persona con un dei caratteri più forti che conosca! Sono incredibili le esperienze che ha passato e che sta passando, sia in Germania sia ora in Italia. Non mento quando dico che è la ragazza perfetta: \"The one\" o la \"The chosen one\". Starei ore a parlare con lei, gli argomenti tendono a più infinito. Per non parlare dei suoi brownies o delle scarpinate che potrebbe fare sulle montagne e nei boschi!<br/><br/>E' davvero unica ed io la amo (se non si era capito).</p>"
 	},
 	{
 		"title":"Relax, Parco e.. bici!",
-		"content": ""
+		"content": "<p>Berlino è troppo grande e non ha un vero e proprio centro...come visitarla tutta? Soluzione: bici!<br>Città immensa, piena di piste ciclabile e con mia sorpresa.. anche di parchi! Non è da me fermarmi nei parchi, per rilassarmi, dormire un pochino e godersi il tempo che scorre. Berlino, immensamente unica!</p>"
 	},
 	{
 		"title":"La prima volta non si scorda mai",
-		"content": ""
+		"content": "<p>Amsterdam, si sa, è la città di Lucignolo. E' possibile sperimentare qualsiasi cosa in un ambiente sicuro e controllato, senza avere pensier strani o esser considerato illegale.<br>Si conferma una delle città più belle d'Europa e del Mondo, e si capiscano i vari perché solo quando si passano alcuni giorni.<br/><br/>L'unico dispiacere è non poterla vivere per più tempo, come fosse vita quotidiana. Sarebbe una bella sfida!</p>"
 	},
 	{
 		"title":"Notre Dame e la Senna: un due meraviglioso",
-		"content": ""
+		"content": "<p>Non c'è altro da aggiungere.</p>"
 	},
 	{
-		"title":"RUN! Motorino, mare e Marta",
-		"content": ""
+		"title":"RUN! Motorino, mare e... Marta!",
+		"content": "<p>Nuvoloso e stanchezza non è la miglior situazione per affrontare la giornata da solo... ci voleva un'idea... ok, ci sono: Noleggio un motorino e mi faccio la panoramica sulla costa, verso sud!<br/><br/>Piccola premessa: io ho la patente per il 125manuale, ma non ho mai guidato (se non per l'esame) un motorino o moto, per cui era la prima volta effettiva che usavo un motorino.. ed è stato epico.<br/>Sulla panoramica non c'erano autovelox, per cui mi sono goduto il panorama e la strada che costeggiava il mare! Il panorama era caratterizzato da queste scogliere a strapiombo che si affacciavano sul mare. La strada era bella larga e tortuosa, intermezzata da alcune brevi gallerie. L'obbiettivo della giornata era trovare bel tempo e una caletta dove poter farsi il bagno, in un'acqua degna di tale nome.<br/><br/>Il sole non sono riuscito a trovarlo, ma la caletta si, e come!<br/>Quel piccolo viaggio all'interno del viaggio mi ha eliminato qualsiasi limite, paura o pensiero negativo che potessi avere. E' stata una liberazione, mi sentivo di vivere il momento.. di stare rock!<br/><br/>Tutto questo stare bene l'ho condiviso con Marta, un'amica che mi conosce più per le parti negative e "depresse" di me. Stavo talmente bene che sembravo un'altra persona al telefono con lei! Mi ha fatto piacere \"raccontarle\" la vera versione di Miki, quella sana, felice con la quale puoi scherzare, confidarti e divertirti.<br/><br/>Si, quella spiaggetta e quel viaggio nel viaggio è stato super... mi ha dato altre idee ma, soprattutto, mi ha fatto scoprire ancora una volta il vero me.</p>"
 	}
 ];
