@@ -347,8 +347,13 @@ div#popup {
 }
 
 div#popup .popup-content {
-    max-height: 500px;
+    /*max-height: 500px;
+    overflow-y: auto;*/
+}
+
+div#popup .popup-body {
     overflow-y: auto;
+    max-height: 365px;
 }
 
 div#popup .popup-container {    
@@ -379,6 +384,8 @@ div#popup #close-popup {
 .fact {
 	cursor: pointer;
 	color: #47dbb4;
+	font-weight: bold;
+    font-style: italic;
 }
 
 @media(min-width: 721px) and (max-width: 1199px) {
@@ -394,8 +401,20 @@ div#popup #close-popup {
 	}
 
 	.header-title {
-		font-size: 1.5em;
+		font-size: 1.3em;
 	}
+
+	span.header-title__part{
+		margin-top: 10px;
+		font-size: 14px;
+	}
+	span.header-title__sub {
+		font-size: 12px;
+	}
+	.header-title__part::before, .header-title__part::after {
+		padding: 0 0.3em;
+	}
+
 	.intro {
 		font-size: 1.25em;
 		height: auto;
